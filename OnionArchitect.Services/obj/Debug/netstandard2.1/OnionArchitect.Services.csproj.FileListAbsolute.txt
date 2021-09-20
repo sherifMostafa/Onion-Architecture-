@@ -1,0 +1,12 @@
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.csproj.AssemblyReference.cache
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.AssemblyInfoInputs.cache
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.AssemblyInfo.cs
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.csproj.CoreCompileInputs.cache
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\bin\Debug\netstandard2.1\OnionArchitect.Services.deps.json
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\bin\Debug\netstandard2.1\OnionArchitect.Services.dll
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\bin\Debug\netstandard2.1\OnionArchitect.Services.pdb
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\bin\Debug\netstandard2.1\OnionArchitect.Core.dll
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\bin\Debug\netstandard2.1\OnionArchitect.Core.pdb
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.csproj.CopyComplete
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.dll
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Services\obj\Debug\netstandard2.1\OnionArchitect.Services.pdb

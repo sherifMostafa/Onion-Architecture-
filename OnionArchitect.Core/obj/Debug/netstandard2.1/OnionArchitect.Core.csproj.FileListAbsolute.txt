@@ -1,0 +1,9 @@
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.AssemblyInfoInputs.cache
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.AssemblyInfo.cs
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.csproj.CoreCompileInputs.cache
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\bin\Debug\netstandard2.1\OnionArchitect.Core.deps.json
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\bin\Debug\netstandard2.1\OnionArchitect.Core.dll
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\bin\Debug\netstandard2.1\OnionArchitect.Core.pdb
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.dll
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.pdb
+D:\tools\cp\Onion Architecture\OnionArcitect\OnionArchitect.Core\obj\Debug\netstandard2.1\OnionArchitect.Core.csproj.AssemblyReference.cache
